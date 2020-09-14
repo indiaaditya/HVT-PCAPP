@@ -1,0 +1,29 @@
+{
+  "name": "hvtpcutility",
+  "version": "1.0.0",
+  "description": "PC Utility for High Voltage Tester",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indiaaditya/HVT_PC_App.git"
+  },
+  "keywords": [
+    "HVT",
+    "Electron",
+    "PC",
+    "Automatic",
+    "Electricals"
+  ],
+  "author": "Indiaaditya Networks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indiaaditya/HVT_PC_App/issues"
+  },
+  "homepage": "https://github.com/indiaaditya/HVT_PC_App#readme",
+  "dependencies": {
+    "electron": "^10.1.1"
+  }
+}
